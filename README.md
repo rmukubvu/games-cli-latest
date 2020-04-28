@@ -8,5 +8,5 @@ Usage:<br/>
         
 <br/>
 <strong>Using Java 14 </strong>
-<p>Text Blocks</p>
-<p>Switch expressions</p>
+<p>Text Blocks</p><br/>
+Switch expressions
