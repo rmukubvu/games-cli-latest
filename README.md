@@ -7,6 +7,6 @@ Usage:<br/>
         java -jar games-cli-latest-1.0-SNAPSHOT.jar -f /path/of/file <br/>
         
 <br/>
-<strong>Using Java 14 </strong>
-<p>Text Blocks</p><br/>
+<strong>Using Java 14 </strong><br/>
+Text Blocks<br/>
 Switch expressions
